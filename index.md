@@ -3,7 +3,7 @@
 * [Neural Network Tuning with TensorFlow](https://medium.com/@paramaggarwal/neural-network-tuning-with-tensorflow-cc14a23f132c)
 * [My Lane Detection Project in the Self Driving Car Nanodegree by Udacity](https://medium.com/@paramaggarwal/my-lane-detection-project-for-the-self-driving-car-nanodegree-by-udacity-36a230553bd3)
 
-### Teaching via YouTube
+### YouTube Videos
 
 * [#4: DIY Reflow Soldering at Home (Tiny SMD components!) ](https://www.youtube.com/watch?v=xd08gRibkds)
 * [#3: Start with Arduino for Just $3 ](https://www.youtube.com/watch?v=hsaroVCHuPE)
@@ -12,13 +12,13 @@
 
 ### Software Hacks
 
-* [Start with Arduino for Just $3](https://medium.com/@paramaggarwal/start-with-arduino-for-just-3-63749fea4827)
 * [Building a Facebook Paper-like UI with React Native](https://medium.com/@paramaggarwal/building-a-facebook-paper-like-ui-with-react-native-4a753623d343) ([video](https://vimeo.com/175727390))
 * [Thrifty: Guess the Price Game for Fashion Clothing](https://vimeo.com/163112588)
 * [Stylebook - explore and shop for clothing collections](https://vimeo.com/129634730)
 
 ### Hardware Hacks
 
+* [Mapping a Room with Ultrasonic Sensors](https://www.hackster.io/paramaggarwal/mapping-a-room-with-ultrasonic-distance-sensors-9725b7)
 * [Building a WiFi Twitter Display: Scrolling Tweets](https://medium.com/@paramaggarwal/building-a-wifi-twitter-display-scrolling-tweets-7788d20ffbd3#.1mu5onwxd) ([video1](https://vimeo.com/49606294)) ([video2](https://vimeo.com/46611743))
 * [Switching a light bulb with an Arduino](https://vimeo.com/47259792)
 * [A Primitive Touchpad](https://vimeo.com/18922055)
@@ -33,7 +33,7 @@
 
 * [How to Make an Awesome Logo for Your Startup in Sketch](https://medium.com/sketch-app-sources/tutorial-make-an-awesome-logo-for-your-startup-with-sketch-6a7a9187023c)
 * [Making Icons in Sketch is Fun](https://medium.com/ux-for-india/making-icons-in-sketch-is-fun-60cc67ed54b0)
-* [Food ordering app design mock](http://github.com/paramaggarwal/hungry)
+* [Food Ordering App Design Mock](http://github.com/paramaggarwal/hungry)
 
 ### Talks
 
