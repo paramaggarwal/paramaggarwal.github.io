@@ -1,5 +1,18 @@
+### Self-driving Car Engineering
+
+* [Neural Network Tuning with TensorFlow](https://medium.com/@paramaggarwal/neural-network-tuning-with-tensorflow-cc14a23f132c)
+* [My Lane Detection Project in the Self Driving Car Nanodegree by Udacity](https://medium.com/@paramaggarwal/my-lane-detection-project-for-the-self-driving-car-nanodegree-by-udacity-36a230553bd3)
+
+### Teaching via YouTube
+
+* [#4: DIY Reflow Soldering at Home (Tiny SMD components!) ](https://www.youtube.com/watch?v=xd08gRibkds)
+* [#3: Start with Arduino for Just $3 ](https://www.youtube.com/watch?v=hsaroVCHuPE)
+* [#2: Mailbag 1 (WeMos, Neo6M, Sonoff, ESP8266, Arduino, STM32)](https://www.youtube.com/watch?v=Zil9q-xFoz4)
+* [#1: Upgrading from 8 Year Old Arduino (Leonardo vs. Diecimila) ](https://www.youtube.com/watch?v=3dLntHpwfjA)
+
 ### Software Hacks
 
+* [Start with Arduino for Just $3](https://medium.com/@paramaggarwal/start-with-arduino-for-just-3-63749fea4827)
 * [Building a Facebook Paper-like UI with React Native](https://medium.com/@paramaggarwal/building-a-facebook-paper-like-ui-with-react-native-4a753623d343) ([video](https://vimeo.com/175727390))
 * [Thrifty: Guess the Price Game for Fashion Clothing](https://vimeo.com/163112588)
 * [Stylebook - explore and shop for clothing collections](https://vimeo.com/129634730)
@@ -12,6 +25,7 @@
 
 ### Writings
 
+* [Myntra: A Front-end Tech Story](https://medium.com/myntra-engineering/myntra-a-front-end-tech-story-ded7d3626f6)
 * [Machine Intelligence Begins: How We Got Here.](https://medium.com/@paramaggarwal/machine-intelligence-begins-how-we-got-here-eecc8cbec49e#.opotke1qi)
 * [8 Life Lessons There is No Turning Back From](https://medium.com/@paramaggarwal/8-life-lessons-there-is-no-turning-back-from-db1de3fa34e0#.fempys1yz)
 
@@ -54,13 +68,18 @@
 
 ### Work
 
+#### Technical Lead - Myntra Designs, Bangalore
+
+Have worked on these projects from Jan 2016 till now:
+
+1. Internal exploratory project as part of Myntra Incubator around conversational interfaces.
+
 #### Senior Software Engineer - Myntra Designs, Bangalore
 
-Have worked on these projects from Jan 2015 till now:
+Have worked on these projects from Jan 2015 till Dec 2015:
 
 1. Style Feed on iOS app in React Native.
 2. Remotely configured native layouts for landing pages.
-3. Experimental project for better customer support.
 
 #### Software Engineer - Myntra Designs, Bangalore
 
@@ -71,6 +90,8 @@ Have worked on these projects from Oct 2013 till Dec 2014:
 3. Myntra iOS app
 
 #### QA Engineer - Cisco Systems, Bangalore
+
+Worked on the software datacenter switches used in a shared virtualization environment.
 
 #### Intern - NTU, Singapore
 
