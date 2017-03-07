@@ -1,5 +1,7 @@
 ### Self-driving Car Engineering
 
+* [Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13)
+* [Intricacies of Traffic Sign Classification with TensorFlow](https://chatbotslife.com/intricacies-of-traffic-sign-classification-with-tensorflow-8f994b1c8ba)
 * [Neural Network Tuning with TensorFlow](https://medium.com/@paramaggarwal/neural-network-tuning-with-tensorflow-cc14a23f132c)
 * [My Lane Detection Project in the Self Driving Car Nanodegree by Udacity](https://medium.com/@paramaggarwal/my-lane-detection-project-for-the-self-driving-car-nanodegree-by-udacity-36a230553bd3)
 
