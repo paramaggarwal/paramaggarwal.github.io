@@ -1,4 +1,4 @@
-### Self-driving Car Engineering
+### Deep Learning for Self-Driving Cars
 
 * [Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13)
 * [Intricacies of Traffic Sign Classification with TensorFlow](https://chatbotslife.com/intricacies-of-traffic-sign-classification-with-tensorflow-8f994b1c8ba)
