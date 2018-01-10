@@ -1,0 +1,54 @@
+- experience:
+  role: Member of Tech Staff
+  time: May 2017 – Current
+  company: Craftworks Solutions, Bangalore
+  details:
+    - Explore new ideas and convert them to products with the possibility of eventually spinning them out into independent companies.
+    - Caliber - Rethink HR tooling to be data-revenue driven instead of subscription-revenue driven - similar to how Gmail had disrupted email services.
+    - Kubric - Programmatic video generation to enable personalization for each viewer - enables interesting marketing usecases.
+
+- experience:
+  role: Technical Lead
+  time: Oct 2016 – Feb 2017
+  company: Myntra Designs, Bangalore
+  details:
+    - Led a team of four of us, as we explored conversational interfaces and chat bots.
+    - We built a platform for configuring automated responses and integrations into our iOS and Android apps.
+
+- experience:
+  role: Senior Software Engineer
+  time: Jan 2015 - Oct 2016
+  company: Myntra Designs, Bangalore
+  details:
+    - Worked on a new system to allow fully custom layouts that could be configured from the server based on a CSS-like spec. Primitives like text, image and icons could be used along with this layout config to make rich sale banners and landing pages.
+    - Worked on the new feed homepage for the iOS app using React Native.
+    - This tech migration helped reduce deployment friction and greatly improve development times for everyone on the project.
+
+- experience:
+  role: Software Engineer
+  time: Oct 2013 - Jan 2015
+  company: Myntra Designs, Bangalore
+  details:
+    - Worked on the PHP to Node.js migration as part of the team that rebuilt the desktop search page. I redid the header and the footer on the website as per the new design with a new floating navigation bar.
+    - Worked on the PHP to Node.js migration as part of the team that rebuilt the mobile website with a focus on performance and compatibility with non-JS browsers. We also reimplemented checkout flow to work without Javascript.
+    - Worked on the desktop to mobile app migration as part of the team that built the iOS app. I built the first prototype and we shipped out the complete app in a little over 3 months. The homepage of the app was built to be completely configurable based on a config loaded from the server - it was a series of widgets like images, banners and slideshows.
+    - The tech migration helped us be able to scale up to our massive sale events. The iOS app contributes upwards of 20% revenue.
+
+- experience:
+  role: QA Engineer
+  time: Nov 2012 - Oct 2013
+  company: Cisco Systems, Bangalore
+  details:
+    - Part of the team that performed QA on Nexus 1000v series of switches for virtualisation platforms
+    - We tested for stability, performance and throughput under various conditions.
+    - Also installation and upgrade scenarios were performed and tested.
+
+- experience:
+  role: Intern
+  time: Feb 2012 - June 2012
+  company: NTU, Singapore
+  details:
+    - Worked on the firmware and software for a custom embedded development for teaching undergraduate students.
+    - Firmware for driving all sensors and actuators on board.
+    - Interfaced with CPLD, FPGA and ARM microprocessor.
+    - The board also consisted of accelerometer, IR emitter and receiver, DAC and ADC as well as Flash storage and RAM.

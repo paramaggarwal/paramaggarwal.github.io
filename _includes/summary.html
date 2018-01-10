@@ -1,0 +1,17 @@
+{% if site.data.summary %}
+<section class="section summary-section">
+
+  <h2 class="section-title"><i class="fa fa-user"></i>Me</h2>
+
+    <div class="summary">
+
+      {% for item in site.data.summary %}
+
+      <p>{{ item }}</p>
+
+      {% endfor %}
+
+    </div>
+
+</section>
+{% endif %}

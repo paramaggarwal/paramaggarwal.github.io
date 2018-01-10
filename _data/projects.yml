@@ -1,0 +1,43 @@
+- intro:
+  description: "Software and hardware hacks - most of them are documented with an article and video."
+
+- project:
+  title: Building a Facebook Paper-like UI with React Native
+  link: "https://medium.com/@paramaggarwal/building-a-facebook-paper-like-ui-with-react-native-4a753623d343"
+  tagline: I built a working copy of the open-close cards carousel from the original Facebook Paper app as a technical demo. It uses the Animated library and React Native.
+- project:
+  title: Mapping a Room with Ultrasonic Sensors
+  link: "https://www.hackster.io/paramaggarwal/mapping-a-room-with-ultrasonic-distance-sensors-9725b7"
+  tagline: I attempt to map the shape of my room using four HC-SR04 Ultrasonic distance sensors and a magnetic compass to measure the heading.
+- project:
+  title: "Scrolling Tweets"
+  link: "https://medium.com/@paramaggarwal/building-a-wifi-twitter-display-scrolling-tweets-7788d20ffbd3"
+  tagline: This little device gets the latest tweets from the internet via WiFi, and displays them on a tiny display.
+- project:
+  title: Hungry (Design Mock)
+  link: "http://github.com/paramaggarwal/hungry"
+  tagline: A prototype design for a food take-away ordering app.
+- project:
+  title: Nearby Cabs
+  link: "https://github.com/paramaggarwal/nearby-cabs"
+  tagline: Nearby cab search with RethinkDB geo-queries and changefeeds.
+- project:
+  title: Dockerweb
+  link: "https://github.com/paramaggarwal/dockerweb"
+  tagline: A web UI to create Docker containers from the Docker Hub.
+- project:
+  title: Event Dashboard
+  link: "https://github.com/paramaggarwal/eventdashboard"
+  tagline: Realtime tweets on a large canvas using websockets
+- project:
+  title: WeFiddle
+  link: "https://github.com/paramaggarwal/wefiddle"
+  tagline: An online collaborative art canvas
+- project:
+  title: Thrifty
+  link: "https://vimeo.com/163112588"
+  tagline: "Guess the Price Game for Fashion Clothing."
+- project:
+  title: Stylebook
+  link: "https://vimeo.com/129634730"
+  tagline: "Explore and shop for clothing collections"

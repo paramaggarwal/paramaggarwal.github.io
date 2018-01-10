@@ -1,0 +1,12 @@
+- skill:
+  name: Web Apps
+  description: React, React Native
+- skill:
+  name: API & Databases
+  description: Node.js, MongoDB, RethinkDB
+- skill:
+  name: iOS
+  description: Objective-C
+- skill:
+  name: Design
+  description: Sketch

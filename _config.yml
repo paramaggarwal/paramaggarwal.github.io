@@ -1,18 +1,9 @@
-title: Param Aggarwal
-description: Software engineer with a design-obsessed mind living in Bangalore, India.
-google_analytics: UA-81674684-1
-show_downloads: false
-remote_theme: sharu725/online-cv
-
 name: Param Aggarwal
-tagline: Software engineer with a design-obsessed mind living in Bangalore, India.
+tagline: Software engineer with a design-obsessed mind.
 pic: profile.jpg
+url: 'http://paramaggarwal.com'
 
-email: paramaggarwal@gmail.com
-website: medium.com/@paramaggarwal
-linkedin: paramaggarwal
-github: paramaggarwal
-twitter: '@paramaggarwal'
+analytics: UA-81674684-1
 
-gems:
+plugins:
   - jekyll-mentions

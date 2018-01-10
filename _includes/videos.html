@@ -1,0 +1,21 @@
+{% if site.data.videos %}
+<section class="section projects-section">
+
+  <h2 class="section-title"><i class="fa fa-video-camera"></i>videos</h2>
+
+  {% for intro in site.data.videos %}
+  <div class="intro">
+      <p>{{ intro.description }}</p>
+  </div>
+  {% endfor%}
+
+  {% for article in site.data.videos %}
+    <div class="item">
+
+      <span class="project-title"><a href="{{ project.link }}">{{ article.title }}</a></span>
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

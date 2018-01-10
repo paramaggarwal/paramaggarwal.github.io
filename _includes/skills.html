@@ -1,0 +1,15 @@
+{% if site.data.skills %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">Skills</h2>
+
+    <ul class="list-unstyled interests-list">
+
+      {%for skill in site.data.skills %}
+      <li>{{ skill.name }} <span class="lang-desc">({{ skill.description }})</span></li>
+      {% endfor %}
+
+    </ul>
+
+</div>
+{% endif %}
