@@ -4,6 +4,9 @@ I recently graduated the nine month Self-Driving Car Engineer Nanodegree at Udac
 
 I was a Web and Mobile App Developer at Myntra Designs, Bangalore. I worked on the PHP to Node.js migration for the desktop and mobile websites. I was the first developer on the iOS app and I eventually helped migrate large parts of the iOS app to React Native. I led a team as we explored conversational interfaces in our incubator lab.
 
+# Links
+* * *
+
 ### Deep Learning for Self-Driving Cars
 
 * [Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13)
@@ -74,40 +77,41 @@ I was a Web and Mobile App Developer at Myntra Designs, Bangalore. I worked on t
 * [Realtime tweets on a large canvas using websockets](https://github.com/paramaggarwal/eventdashboard)
 * [An online collaborative art canvas](https://github.com/paramaggarwal/wefiddle)
 
-### Work
+# Work
+* * *
 
-#### Member of Tech Staff - Craftworks Solutions, Bangalore (May 2017 – Current)
+### Member of Tech Staff - Craftworks Solutions, Bangalore (May 2017 – Current)
 
 Explore new ideas and convert them to products with the possibility of eventually spinning them out into independent companies.
 
 1. [Caliber](http://www.caliberbox.com) - Rethink HR tooling to be data-revenue driven instead of subscription-revenue driven - similar to how Gmail had disrupted email services.
 2. [Kubric](http://www.kubric.io) - Programmatic video generation to enable personalization for each viewer - enables interesting marketing usecases.
 
-#### Technical Lead - Myntra Designs, Bangalore (Oct 2016 – Feb 2017)
+### Technical Lead - Myntra Designs, Bangalore (Oct 2016 – Feb 2017)
 
 - Led a team of four of us, as we explored conversational interfaces and chat bots.
 - We built a platform for configuring automated responses and integrations into our iOS and Android apps.
 
-#### Senior Software Engineer - Myntra Designs, Bangalore (Jan 2015 - Oct 2016)
+### Senior Software Engineer - Myntra Designs, Bangalore (Jan 2015 - Oct 2016)
 
 - Worked on a new system to allow fully custom layouts that could be configured from the server based on a CSS-like spec. Primitives like text, image and icons could be used along with this layout config to make rich sale banners and landing pages.
 - Worked on the new feed homepage for the iOS app using React Native.
 - This tech migration helped reduce deployment friction and greatly improve development times for everyone on the project.
 
-#### Software Engineer - Myntra Designs, Bangalore (Oct 2013 - Jan 2015)
+### Software Engineer - Myntra Designs, Bangalore (Oct 2013 - Jan 2015)
 
 - Worked on the PHP to Node.js migration as part of the team that rebuilt the desktop search page. I redid the header and the footer on the website as per the new design with a new floating navigation bar.
 - Worked on the PHP to Node.js migration as part of the team that rebuilt the mobile website with a focus on performance and compatibility with non-JS browsers. We also reimplemented checkout flow to work without Javascript.
 - Worked on the desktop to mobile app migration as part of the team that built the iOS app. I built the first prototype and we shipped out the complete app in a little over 3 months. The homepage of the app was built to be completely configurable based on a config loaded from the server - it was a series of widgets like images, banners and slideshows.
 - The tech migration helped us be able to scale up to our massive sale events. The iOS app contributes upwards of 20% revenue.
 
-#### QA Engineer - Cisco Systems, Bangalore (Nov 2012 - Oct 2013)
+### QA Engineer - Cisco Systems, Bangalore (Nov 2012 - Oct 2013)
 
 - Part of the team that performed QA on Nexus 1000v series of switches for virtualisation platforms
 - We tested for stability, performance and throughput under various conditions.
 - Also installation and upgrade scenarios were performed and tested.
 
-#### Intern - NTU, Singapore
+### Intern - NTU, Singapore
 
 Worked on the firmware and software for a custom embedded development for teaching undergraduate students:
 
@@ -115,9 +119,10 @@ Worked on the firmware and software for a custom embedded development for teachi
 2. Interfaced with CPLD, FPGA and ARM microprocessor.
 3. The board also consisted of accelerometer, IR emitter and receiver, DAC and ADC as well as Flash storage and RAM.
 
-### Education
+# Education
+* * *
 
-#### Self-Driving Car Engineer Nanodegree - Udacity (Nov 2016 – Oct 2017)
+### Self-Driving Car Engineer Nanodegree - Udacity (Nov 2016 – Oct 2017)
 
 - Graduated from the course.
 - Term 1 consisted of Deep Learning and Computer Vision modules.
@@ -127,10 +132,11 @@ Worked on the firmware and software for a custom embedded development for teachi
 - Created Bangalore student group.
 - Published my learnings on Medium/YouTube/GitHub which fellow students found useful.
 
-#### B.Tech - IIIT Allahabad (2008 - 12)
+### B.Tech - IIIT Allahabad (2008 - 12)
 
 - Electronics and Communication Engineering.
 
-### Email
+# Email
+* * *
 
 You can reach me at paramaggarwal@gmail.com
