@@ -1,7 +1,7 @@
 {% if site.data.videos %}
 <section class="section projects-section">
 
-  <h2 class="section-title"><i class="fa fa-video-camera"></i>videos</h2>
+  <h2 class="section-title"><i class="fa fa-video-camera"></i>Videos</h2>
 
   {% for intro in site.data.videos %}
   <div class="intro">
@@ -9,13 +9,18 @@
   </div>
   {% endfor%}
 
-  {% for article in site.data.videos %}
+  {% for video in site.data.videos %}
     <div class="item">
 
-      <span class="project-title"><a href="{{ project.link }}">{{ article.title }}</a></span>
+      <span class="project-title"><a href="{{ video.link }}">{{ video.title }}</a></span>
 
-    </div><!--//item-->
+      {% if video.tagline %}
+      - <span class="project-tagline">{{ video.tagline }}</span>
+      {% endif %}
+
+
+    </div>
   {% endfor %}
 
-</section><!--//section-->
+</section>
 {% endif %}
