@@ -1,21 +1,19 @@
 {% if site.data.articles %}
 <section class="section projects-section">
 
-  <h2 class="section-title"><i class="fa fa-pencil"></i>Articles</h2>
-
-  {% for intro in site.data.articles %}
+  <h2 class="section-title"><i class="fa fa-pencil"></i>Articles</h2> {% for intro in site.data.articles %}
   <div class="intro">
-      <p>{{ intro.description }}</p>
+    <p>{{ intro.description }}</p>
   </div>
-  {% endfor%}
+  {% endfor%} {% for article in site.data.articles %}
+  <div class="item">
 
-  {% for article in site.data.articles %}
-    <div class="item">
+    <span class="project-title"><a href="{{ article.link }}">{{ article.title }}</a></span>
 
-      <span class="project-title"><a href="{{ project.link }}">{{ article.title }}</a></span>
-
-    </div><!--//item-->
+  </div>
+  <!--//item-->
   {% endfor %}
 
-</section><!--//section-->
+</section>
+<!--//section-->
 {% endif %}
