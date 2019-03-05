@@ -1,54 +1,70 @@
 <div class="sidebar-wrapper">
+    <div class="profile-container">
+        <img class="profile-img" src="{{ site.baseurl }}/assets/images/{{ site.pic }}" alt="profile picture" />
 
-   <div class="profile-container">
+        {% if site.name %}
+        <h1 class="name">{{ site.name }}</h1>
+        {% endif %} {% if site.tagline %}
+        <h3 class="tagline">{{ site.tagline }}</h3>
+        {% endif %}
+    </div>
 
-       <img class="profile-img" src="{{site.baseurl}}/assets/images/{{ site.pic }}" alt="profile picture" />
+    <div class="contact-container container-block">
 
-       {% if site.name %}
-       <h1 class="name">{{site.name}}</h1>
-       {% endif %}
 
-       {% if site.tagline %}
-       <h3 class="tagline">{{site.tagline}}</h3>
-       {% endif %}
 
-   </div>
+        <div>
+            {% if site.data.social.github %}
+            <span class="link-icon">
+                <a href="https://github.com/{{ site.data.social.github }}" target="_blank"><i
+                        class="fab fa-2x fa-github"></i></a>
+            </span>
+            {% endif %}
 
-   <div class="contact-container container-block">
-       <ul class="list-unstyled contact-list">
+            {% if site.data.social.medium %}
+            <span class="link-icon">
+                <a href="https://medium.com/{{ site.data.social.medium }}" target="_blank"><i
+                        class="fab fa-2x fa-medium"></i></a>
+            </span>
+            {% endif %}
 
-          {% if site.data.social.email %}
-           <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.data.social.email}}">{{site.data.social.email}}</a></li>
-           {% endif %}
+            {% if site.data.social.twitter %}
+            <span class="link-icon">
+                <a href="https://twitter.com/{{ site.data.social.twitter }}" target="_blank"><i
+                        class="fab fa-2x fa-twitter"></i></a>
+            </span>
+            {% endif %}
 
-           {% if site.data.social.website %}
-           <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.data.social.website}}" target="_blank">{{site.data.social.website}}</a></li>
-           {% endif %}
+            {% if site.data.social.youtube %}
+            <span class="link-icon">
+                <a href="https://youtube.com/{{ site.data.social.youtube }}" target="_blank"><i
+                        class="fab fa-2x fa-youtube"></i></a>
+            </span>
+            {% endif %}
 
-           {% if site.data.social.youtube %}
-           <li class="youtube"><i class="fa fa-youtube"></i><a href="https://youtube.com/{{site.data.social.youtube}}" target="_blank">{{site.data.social.youtube}}</a></li>
-           {% endif %}
+            {% if site.data.social.linkedin %}
+            <span class="link-icon">
+                <a href="https://linkedin.com/in/{{ site.data.social.linkedin }}" target="_blank"><i
+                        class="fab fa-2x fa-linkedin"></i></a>
+            </span>
+            {% endif %}
 
-           {% if site.data.social.linkedin %}
-           <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.data.social.linkedin}}" target="_blank">{{site.data.social.linkedin}}</a></li>
-           {% endif %}
+            {% if site.data.social.website %}
+            <span class="link-icon">
+                <a href="http://{{ site.data.social.website }}" target="_blank"><i class="fas fa-2x fa-globe"></i></a>
+            </span>
+            {% endif %}
 
-           {% if site.data.social.github %}
-           <li class="github"><i class="fa fa-github"></i><a href="https://github.com/{{site.data.social.github}}" target="_blank">{{site.data.social.github}}</a></li>
-           {% endif %}
+            {% if site.data.social.email %}
+            <span class="link-icon">
+                <i class="fas fa-2x fa-envelope"></i><a href="mailto: {{ site.data.social.email }}">{{
+          site.data.social.email
+        }}</a>
+            </span>
+            {% endif %}
+        </div>
+        
+    </div>
 
-           {% if site.data.social.medium %}
-           <li class="medium"><i class="fa fa-medium"></i><a href="https://medium.com/{{site.data.social.medium}}" target="_blank">{{site.data.social.medium}}</a></li>
-           {% endif %}
-
-           {% if site.data.social.twitter %}
-           <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.data.social.twitter}}" target="_blank">{{site.data.social.twitter}}</a></li>
-           {% endif %}
-
-       </ul>
-   </div>
-
-  {% include skills.html %}
-  {% include education.html %}
-
+    {% include skills.html %} {% include education.html %}
 </div>

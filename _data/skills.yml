@@ -3,7 +3,7 @@
   description: React, React Native
 - skill:
   name: API & Databases
-  description: Node.js, MongoDB, RethinkDB
+  description: Node.js, MongoDB
 - skill:
   name: iOS
   description: Objective-C
