@@ -1,6 +1,14 @@
 - experience:
+  role: Software Engineer
+  time: Nov 2019 – Current
+  company: CureFit, Bengaluru
+  details:
+    - Designed language handling solution for web & react-native properties.
+    - Led implementation of app/web UI changes for pre-booking functionality.
+
+- experience:
   role: UI Engineer III
-  time: Jul 2018 – Current
+  time: Jul 2018 – Nov 2019
   company: Flipkart, Bangalore
   details:
     - Working with the User Acquisition & Growth team on developing cross-platform experiences.
