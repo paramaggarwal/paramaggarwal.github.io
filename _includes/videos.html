@@ -1,26 +1,26 @@
 {% if site.data.videos %}
-<section class="section projects-section">
-
-  <h2 class="section-title">Videos</h2>
-
-  {% for intro in site.data.videos %}
-  <div class="intro">
-      <p>{{ intro.description }}</p>
-  </div>
-  {% endfor%}
+<section>
+  <h1>Videos</h1>
 
   {% for video in site.data.videos %}
-    <div class="item">
+  <div
+    style="
+      display: inline-block;
+      width: 49%;
+      margin: 0 auto;
+      vertical-align: top;
+    "
+  >
+    {% if video.thumbnail %}
+    <a href="{{ video.link }}"><img src="{{ video.thumbnail }}" /></a>
+    {% endif %}
 
-      <span class="project-title"><a href="{{ video.link }}">{{ video.title }}</a></span>
+    <b><a href="{{ video.link }}">{{ video.title }}</a></b>
 
-      {% if video.tagline %}
-      - <span class="project-tagline">{{ video.tagline }}</span>
-      {% endif %}
-
-
-    </div>
+    {% if video.tagline %}
+    <p>{{ video.tagline }}</p>
+    {% endif %}
+  </div>
   {% endfor %}
-
 </section>
 {% endif %}

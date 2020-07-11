@@ -1,19 +1,8 @@
 {% if site.data.articles %}
-<section class="section projects-section">
-
-  <h2 class="section-title">Articles</h2> {% for intro in site.data.articles %}
-  <div class="intro">
-    <p>{{ intro.description }}</p>
-  </div>
-  {% endfor%} {% for article in site.data.articles %}
-  <div class="item">
-
-    <span class="project-title"><a href="{{ article.link }}">{{ article.title }}</a></span>
-
-  </div>
-  <!--//item-->
+<section>
+  <h1>Articles</h1>
+  {% for article in site.data.articles %}
+  <p><a href="{{ article.link }}">{{ article.title }}</a></p>
   {% endfor %}
-
 </section>
-<!--//section-->
 {% endif %}

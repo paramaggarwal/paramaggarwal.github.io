@@ -1,6 +1,3 @@
-- intro:
-  description: "Software and hardware hacks - most of them are documented with an article and video."
-
 - project:
   title: Building a Facebook Paper-like UI with React Native
   link: "https://medium.com/@paramaggarwal/building-a-facebook-paper-like-ui-with-react-native-4a753623d343"

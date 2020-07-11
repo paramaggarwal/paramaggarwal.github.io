@@ -1,15 +1,13 @@
 {% if site.data.educations %}
-<div class="education-container container-block">
-
-  <h2 class="container-block-title">Education</h2>
+<section>
+  <h1>Education</h1>
 
   {% for education in site.data.educations %}
-    <div class="item">
-      <h4 class="degree">{{ education.degree }}</h4>
-      <div class="meta">{{ education.university }}</div>
-      <div class="time">{{ education.time }}</div>
-    </div><!--//item-->
+  <ul>
+    <li>
+      {{ education.degree }} - {{ education.university }}
+    </li>
+  </ul>
   {% endfor %}
-
-</div><!--//education-container-->
+</section>
 {% endif %}

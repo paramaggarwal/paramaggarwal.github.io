@@ -1,25 +1,17 @@
 {% if site.data.projects %}
-<section class="section projects-section">
-
-  <h2 class="section-title">Projects</h2>
-
-  {% for intro in site.data.projects %}
-  <div class="intro">
-      <p>{{ intro.description }}</p>
-  </div><!--//intro-->
-  {% endfor%}
+<section>
+  <h1>Projects</h1>
 
   {% for project in site.data.projects %}
-    <div class="item">
+  <p>
+    <span><a href="{{ project.link }}">{{ project.title }}</a></span>
 
-      <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
+    {% if project.tagline %} -
+    <span>{{ project.tagline }}</span>
+    {% endif %}
+  </p>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
   {% endfor %}
+</section>
 
-</section><!--//section-->
 {% endif %}

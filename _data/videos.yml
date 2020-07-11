@@ -1,43 +1,50 @@
-- intro:
-  description: "Videos tutorials about new electronics hardware as well as some short movies. (200+ subscribers on YouTube)"
-
 - article:
   title: DIY Reflow Soldering at Home
-  link: "https://www.youtube.com/watch?v=xd08gRibkds"
+  link: https://www.youtube.com/watch?v=xd08gRibkds
+  thumbnail: http://i3.ytimg.com/vi/xd08gRibkds/maxresdefault.jpg
   tagline: SMD soldering practice with a twist - with solder paste, a hot pan, infrared thermometer and really tiny components.
 - article:
   title: Start with Arduino for Just $3
-  link: "https://www.youtube.com/watch?v=hsaroVCHuPE"
+  link: https://www.youtube.com/watch?v=hsaroVCHuPE
+  thumbnail: http://i3.ytimg.com/vi/hsaroVCHuPE/maxresdefault.jpg
   tagline: Don’t use an Arduino Uno board — instead use an ESP8266 based module that is many times more capable than the Arduino, but still ten times cheaper!
 - article:
   title: Electronics Mailbag
-  link: "https://www.youtube.com/watch?v=Zil9q-xFoz4"
+  link: https://www.youtube.com/watch?v=Zil9q-xFoz4
+  thumbnail: http://i3.ytimg.com/vi/Zil9q-xFoz4/maxresdefault.jpg
   tagline: This was my very first batch of orders from AliExpress with WeMos, Neo6M, Sonoff, ESP8266, Arduino, STM32.
 - article:
   title: Upgrading from 8 Year Old Arduino (Leonardo vs. Diecimila)
-  link: "https://www.youtube.com/watch?v=3dLntHpwfjA"
+  link: https://www.youtube.com/watch?v=3dLntHpwfjA
+  thumbnail: http://i3.ytimg.com/vi/3dLntHpwfjA/maxresdefault.jpg
   tagline: I talk about my beloved eight year old Arduino and then we unbox my new Leonardo board.
 - article:
   title: Meet Roy
-  link: "https://vimeo.com/19773975"
+  link: https://vimeo.com/19773975
+  thumbnail: https://i.vimeocdn.com/video/125660832_1280x720.jpg
   tagline: Roy learns that life is more than what he considers it to be and people are more than what they seem to be. Fortunately, he is not too late.
 - article:
   title: Isko Khaiye
-  link: "https://vimeo.com/18638097"
+  link: https://vimeo.com/18638097
+  thumbnail: https://i.vimeocdn.com/video/117394186_1280x720.jpg
   tagline: An advertisement for a mouth freshener. A bunch of us get together to prove why you should be having it too!
 - article:
   title: The Double-Crested Cormorant
-  link: "https://vimeo.com/68470594"
+  link: https://vimeo.com/68470594
+  thumbnail: https://i.vimeocdn.com/video/440802723_1280x720.jpg
   tagline: A bird that can fly, land on water, do some fishing, and then fly again. Nature. Beautiful.
 - article:
   title: IIITA Jury - Who pays?
-  link: "https://vimeo.com/22465409"
+  link: https://vimeo.com/22465409
+  thumbnail: https://i.vimeocdn.com/video/145229093_1280x720.jpg
   tagline: One guy books a ticket for two friends who don't travel, and three other friends travel on the train seats instead.
 - article:
   title: Flash talk at JSFoo 2013
-  link: "https://www.youtube.com/watch?v=ZvXuW3tyQF0&t=6m35s"
+  link: https://www.youtube.com/watch?v=ZvXuW3tyQF0&t=6m35s
+  thumbnail: http://i3.ytimg.com/vi/ZvXuW3tyQF0/maxresdefault.jpg
   tagline: I gave a small talk with my friend Chetan Agrawal at a JS conference in Bangalore.
 - article:
   title: Flash talk at MetaRefresh 2014
-  link: "https://www.youtube.com/watch?v=iG01gVs9Wpo"
+  link: https://www.youtube.com/watch?v=iG01gVs9Wpo
+  thumbnail: http://i3.ytimg.com/vi/iG01gVs9Wpo/maxresdefault.jpg
   tagline: Another small talk about a collaborative art canvas I made that runs in the browser.
