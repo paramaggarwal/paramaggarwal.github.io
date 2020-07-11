@@ -2,6 +2,3 @@ name: Param Aggarwal
 tagline: Cross-platform front-end developer.
 pic: profile.jpg
 url: 'http://paramaggarwal.com'
-
-plugins:
-  - jekyll-mentions
