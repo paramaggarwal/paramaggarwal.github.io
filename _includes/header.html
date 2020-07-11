@@ -24,11 +24,11 @@
       <input type="submit" value="Subscribe" />
     </form>
 
-    <p>
-      {%for link in site.data.links %}
+    <div>
+      {% for link in site.data.links %}
       <a href="{{ link.url }}"><div class="link">{{ link.title }}</div></a>
       {% endfor %}
-    </p>
+    </div>
   </div>
   {% endif %}
 </div>
