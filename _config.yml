@@ -3,7 +3,5 @@ tagline: Cross-platform front-end developer.
 pic: profile.jpg
 url: 'http://paramaggarwal.com'
 
-analytics: UA-81674684-1
-
 plugins:
   - jekyll-mentions
