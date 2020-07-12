@@ -1,5 +1,29 @@
+html {
+  --page-background-color: hsl(270, 50%, 80%);
+  --header-background-color: hsl(270, 100%, 20%);
+  --card-background-color: hsl(270, 50%, 99%);
+  --card-text-color: hsl(270, 100%, 10%);
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    --page-background-color: hsl(270, 50%, 20%);
+    --header-background-color: hsl(270, 100%, 15%);
+    --card-background-color: hsl(270, 50%, 10%);
+    --card-text-color: hsl(270, 100%, 95%);
+  }
+
+  img {
+    opacity: .75;
+  }
+  
+  img:hover {
+    opacity: 1;
+  }
+}
+
 body {
-  background: #d7cce1;
+  background: var(--page-background-color);
   padding: 30px;
 }
 
@@ -11,12 +35,13 @@ body {
 }
 
 .wrapper {
-  background: white;
+  background: var(--card-background-color);
   max-width: 1024px;
   margin: 0 auto;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
   border-radius: 12px;
   overflow: hidden;
+  color: var(--card-text-color);
 }
 @media (max-width: 767px) {
   .wrapper {
@@ -26,8 +51,8 @@ body {
 
 .header-wrapper {
   display: flex;
-  background: #3b006d;
-  color: #fff;
+  background: var(--header-background-color);
+  color: white;
 }
 @media (max-width: 767px) {
   .header-wrapper {
@@ -36,7 +61,7 @@ body {
 }
 
 .header-wrapper a {
-  color: #fff;
+  color: white;
 }
 
 .header-wrapper .profile-container {
@@ -115,6 +140,7 @@ input {
 
 input[type="email"] {
   width: 200px;
+  background-color: var(--page-background-color);
 }
 
 input[type="submit"] {
