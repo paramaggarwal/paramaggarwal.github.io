@@ -140,7 +140,7 @@ input {
 
 input[type="email"] {
   width: 200px;
-  background-color: var(--page-background-color);
+  background-color: var(--card-background-color);
 }
 
 input[type="submit"] {
