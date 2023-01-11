@@ -1,4 +1,19 @@
 - article:
+  title: Flash talk at JSFoo 2013
+  link: https://www.youtube.com/watch?v=ZvXuW3tyQF0&t=6m35s
+  thumbnail: http://i3.ytimg.com/vi/ZvXuW3tyQF0/maxresdefault.jpg
+  tagline: Spoke about server-side rendering before it was popular. Given with my friend Chetan Agrawal.
+- article:
+  title: Flash talk at MetaRefresh 2014
+  link: https://www.youtube.com/watch?v=iG01gVs9Wpo
+  thumbnail: http://i3.ytimg.com/vi/iG01gVs9Wpo/maxresdefault.jpg
+  tagline: Spoke about the proliferation of backend-as-a-service tools before they were popular. Built a collaborative art canvas that runs in the browser.
+- article:
+  title: Flash talk at JSFoo 2019
+  link: https://www.youtube.com/watch?v=wcO38thBMNM
+  thumbnail: http://i3.ytimg.com/vi/wcO38thBMNM/maxresdefault.jpg
+  tagline: Spoke about JAM stack trend before it was popular, the idea of putting a CDN on top of the primary server and caching assets seletively.
+- article:
   title: DIY Reflow Soldering at Home
   link: https://www.youtube.com/watch?v=xd08gRibkds
   thumbnail: http://i3.ytimg.com/vi/xd08gRibkds/maxresdefault.jpg
@@ -21,30 +36,20 @@
 - article:
   title: Meet Roy
   link: https://vimeo.com/19773975
-  thumbnail: https://i.vimeocdn.com/video/125660832_1280x720.jpg
+  thumbnail: https://i.vimeocdn.com/video/125660832-243a5e56bee02f478986e6b197adadfc7f4ff6762f355d1d02faa91de308c2a4-d
   tagline: Roy learns that life is more than what he considers it to be and people are more than what they seem to be. Fortunately, he is not too late.
 - article:
   title: Isko Khaiye
   link: https://vimeo.com/18638097
-  thumbnail: https://i.vimeocdn.com/video/117394186_1280x720.jpg
+  thumbnail: https://i.vimeocdn.com/video/117394186-deadccadf07ab09e73a09f750e0f6e69f6456b0e3ad0f66079c3f282f3a12378-d
   tagline: An advertisement for a mouth freshener. A bunch of us get together to prove why you should be having it too!
 - article:
   title: The Double-Crested Cormorant
   link: https://vimeo.com/68470594
-  thumbnail: https://i.vimeocdn.com/video/440802723_1280x720.jpg
+  thumbnail: https://i.vimeocdn.com/video/440802723-b9d40480a0b6a3e22d5505a39a210d0c6b738713ceb7c1d370f2b6c8998eb2f5-d
   tagline: A bird that can fly, land on water, do some fishing, and then fly again. Nature. Beautiful.
 - article:
   title: IIITA Jury - Who pays?
   link: https://vimeo.com/22465409
-  thumbnail: https://i.vimeocdn.com/video/145229093_1280x720.jpg
+  thumbnail: https://i.vimeocdn.com/video/145229093-40fe841dad1b2efffe1e234726df57fd3916131e2ef5f0faee211d423a2cded6-d
   tagline: One guy books a ticket for two friends who don't travel, and three other friends travel on the train seats instead.
-- article:
-  title: Flash talk at JSFoo 2013
-  link: https://www.youtube.com/watch?v=ZvXuW3tyQF0&t=6m35s
-  thumbnail: http://i3.ytimg.com/vi/ZvXuW3tyQF0/maxresdefault.jpg
-  tagline: I gave a small talk with my friend Chetan Agrawal at a JS conference in Bangalore.
-- article:
-  title: Flash talk at MetaRefresh 2014
-  link: https://www.youtube.com/watch?v=iG01gVs9Wpo
-  thumbnail: http://i3.ytimg.com/vi/iG01gVs9Wpo/maxresdefault.jpg
-  tagline: Another small talk about a collaborative art canvas I made that runs in the browser.
