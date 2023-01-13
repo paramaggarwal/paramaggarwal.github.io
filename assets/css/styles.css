@@ -110,6 +110,18 @@ body {
   background: rgba(0, 0, 0, 0.4);
 }
 
+.header-wrapper .icon-link img {
+  display: inline-block;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 12px 0;
+  opacity: 0.9;
+}
+
+.header-wrapper .icon-link img:hover {
+  opacity: 1;
+}
+
 .header-wrapper .container-block {
   padding: 10px 30px;
   display: inline-block;
