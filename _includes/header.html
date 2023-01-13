@@ -14,15 +14,10 @@
     {% endif %} {% if site.tagline %}
     <h3 class="tagline">{{ site.tagline }}</h3>
     {% endif %}
-
-    <form
-      action="https://buttondown.email/api/emails/embed-subscribe/param"
-      method="post"
-    >
-      <input type="email" name="email" placeholder="Email" />
-      <input type="hidden" value="1" name="embed" />
-      <input type="submit" value="Subscribe" />
-    </form>
+    
+    <div>
+      <a href="https://paramaggarwal.medium.com/subscribe"><div class="link">Subscribe to my newsletter for updates</div></a>
+    </div>
 
     <div>
       {% for link in site.data.links %}
