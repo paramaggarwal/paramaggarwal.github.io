@@ -1,12 +1,19 @@
 - experience:
-  role: Software Engineer
-  time: Nov 2019 – Current
+  role: Senior Engineering Manager
+  time: Jan 2023 – Current
+  company: Groww
+  details:
+    - Working with the Mutual Funds and Primaries app team.
+
+- experience:
+  role: Engineering Manager
+  time: Nov 2019 – Jan 2023
   company: CureFit
   details:
     - Working with the team bringing fitness and wellness solutions direct to your home.
 
 - experience:
-  role: UI Engineer III
+  role: UI Engineer 3
   time: Jul 2018 – Nov 2019
   company: Flipkart
   details:
