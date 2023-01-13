@@ -19,5 +19,11 @@
     <div>
       <a href="https://paramaggarwal.medium.com/subscribe"><div class="link">Subscribe to my newsletter for updates</div></a>
     </div>
+    
+    <div>
+       {% for link in site.data.links %}
+       <a href="{{ link.url }}"><div class="link">{{ link.title }}</div></a>
+       {% endfor %}
+     </div>
   </div>
 </div>
