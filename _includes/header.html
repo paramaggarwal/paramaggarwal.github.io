@@ -1,29 +1,29 @@
 <div class="header-wrapper">
   <div class="profile-container">
-    <img
-      class="profile-img"
-      src="{{ site.baseurl }}/assets/images/{{ site.pic }}"
-      alt="profile picture"
-    />
+    <img class="profile-img" src="{{ site.baseurl }}/assets/images/{{ site.pic }}" alt="profile picture" />
   </div>
 
   <div class="container-block">
     {% if site.name %}
     <h1 class="name">{{ site.name }}</h1>
     {% endif %}
-    
+
     {% if site.tagline %}
     <h3 class="tagline">{{ site.tagline }}</h3>
     {% endif %}
-    
+
     <div>
-      <a href="https://paramaggarwal.medium.com/subscribe"><div class="link">Subscribe to my newsletter for updates</div></a>
+      <a href="{{ site.newsletter.url }}">
+        <div class="link">{{ site.newsletter.description }}</div>
+      </a>
     </div>
-    
+
     <div>
-       {% for link in site.data.links %}
-       <a href="{{ link.url }}"><div class="icon-link"><img width="30" src="{{ site.baseurl }}/assets/icons/{{ link.icon }}" /></div></a>
-       {% endfor %}
-     </div>
+      {% for link in site.data.links %}
+      <a href="{{ link.url }}">
+        <div class="icon-link"><img width="30" src="{{ site.baseurl }}/assets/icons/{{ link.icon }}" /></div>
+      </a>
+      {% endfor %}
+    </div>
   </div>
 </div>
