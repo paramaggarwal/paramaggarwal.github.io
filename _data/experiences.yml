@@ -3,7 +3,7 @@
   time: Jan 2023 – Current
   company: Groww
   details:
-    - Mutual Funds & Groww Balance: Leading a team of 4 members, growing India's largest online MF provider further.
+    - Mutual Funds & Groww Balance → Leading a team of 4 members, growing India's largest online MF provider further.
     - Drove the migration of MF to RN, away from hybrid stack. This sped up feature delivery due to reduced dev effort and web team could also now contribute.
     - Led the migration from email to phone number for tracking and importing external funds into Groww, which gave 3x improvement in conversion due to ease-of-use.
     - Worked closely with the product to redesign the UI which explains the breakup of your outstanding stocks balance to the customer.
@@ -14,27 +14,28 @@
   time: Nov 2019 – Jan 2023
   company: CureFit
   details:
-    - Cult Gym Experience & Workout Planner: Leading a team of 7 members, drove the efforts to migrate from React Native to Flutter to improve guided-workout screen performance on customer app and revamped trainer app to increase guidance given to users by trainers.
-    - Therapy Marketplace: Built self-serve class management portal to empower operations team. Evangelised no-code approach of building internal tools using AppSmith in the company. Drove future direction with product and design team. Revamped legacy Java/ MySQL backend to launch variable pricing for a marketplace business model.
-    - Companion App for Cultsport Workout Equipment: Led the teams from two acquired companies, who were new to Flutter, in building bluetooth-connected equipment companion app for cultROW. Defined roadmap to build supporting experience for upcoming workout hardware launches with video streaming and BLE connectivity via Flutter in existing app.
-    - At-home Workouts (Cult Live): Led team of 6 members in growing from 1K to 80K monthly paying customers. Pitched new homepage for better discovery of workouts library, revamped codebase to resolve app hang issues during workout and re-wrote Chromecast support to be completely reliable. These efforts halved customer support tickets on the team. Built critical debugging framework to help look into session-level performance issues with ML inference (energy score calculated on-device using camera) and video streaming on mobile. Designed and built a complete solution to AB test different ML models for energy score calculation.
+    - Cult Gym Experience & Workout Planner → Leading a team of 7 members, drove the efforts to migrate from React Native to Flutter to improve guided-workout screen performance on customer app and revamped trainer app to increase guidance given to users by trainers.
+    - Therapy Marketplace → Built self-serve class management portal to empower operations team. Evangelised no-code approach of building internal tools using AppSmith in the company. Drove future direction with product and design team. Revamped legacy Java/ MySQL backend to launch variable pricing for a marketplace business model.
+    - Companion App for Cultsport Workout Equipment → Led the teams from two acquired companies, who were new to Flutter, in building bluetooth-connected equipment companion app for cultROW. Defined roadmap to build supporting experience for upcoming workout hardware launches with video streaming and BLE connectivity via Flutter in existing app.
+    - At-home Workouts (Cult Live) → Led team of 6 members in growing from 1K to 80K monthly paying customers. Pitched new homepage for better discovery of workouts library, revamped codebase to resolve app hang issues during workout and re-wrote Chromecast support to be completely reliable. These efforts halved customer support tickets on the team. Built critical debugging framework to help look into session-level performance issues with ML inference (energy score calculated on-device using camera) and video streaming on mobile. Designed and built a complete solution to AB test different ML models for energy score calculation.
 
 - experience:
   role: UI Engineer 3
   time: Jul 2018 – Nov 2019
   company: Flipkart
   details:
-    - Designed language handling solution for web & react-native properties.
-    - Led implementation of app/web UI changes for pre-booking functionality.
+    - Flipkart in Hindi → Designed language handling solution for web & react-native properties
+    - Flipkart Pre-order for BBD → Led implementation of app/web UI changes for pre-order functionality for BBD sale.
 
 - experience:
   role: Member of Tech Staff
   time: May 2017 – Jul 2018
   company: Craftworks
   details:
-    - Explore new ideas and convert them to products with the possibility of eventually spinning them out into independent companies.
-    - Caliber - Rethink HR tooling to be data-revenue driven instead of subscription-revenue driven - similar to how Gmail had disrupted email services.
-    - Kubric - Programmatic video generation to enable personalization for each viewer - enables interesting marketing usecases.
+    - Ideated, designed and built three different products from scratch:
+    - Caliber → A recruitment platform that added verified technical interview results to your resume using trusted recruiters, built with MongoDB and Node.js.
+    - Bigshow → A prize-money live-trivia video streaming game meant for effective marketing and advertising, built in Go and scaled to 5000 concurrent players.
+    - Kubric → A no-code video-generator that allowed personalizing video ads to each individual customer, built with Node.js and Google Cloud.
 
 - experience:
   role: Tech Lead
