@@ -32,7 +32,7 @@
   time: May 2017 – Jul 2018
   company: Craftworks
   details:
-    - Ideated, designed and built three different products from scratch:
+    - Ideated, designed and built the following three products from scratch, with the intention of converting them into companies if there is product-market fit.
     - Caliber → A recruitment platform that added verified technical interview results to your resume using trusted recruiters, built with MongoDB and Node.js.
     - Bigshow → A prize-money live-trivia video streaming game meant for effective marketing and advertising, built in Go and scaled to 5000 concurrent players.
     - Kubric → A no-code video-generator that allowed personalizing video ads to each individual customer, built with Node.js and Google Cloud.
