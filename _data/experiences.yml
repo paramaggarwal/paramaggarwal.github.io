@@ -20,7 +20,7 @@
     - At-home Workouts (Cult Live) → Led team of 6 members in growing from 1K to 80K monthly paying customers. Pitched new homepage for better discovery of workouts library, revamped codebase to resolve app hang issues during workout and re-wrote Chromecast support to be completely reliable. These efforts halved customer support tickets on the team. Built critical debugging framework to help look into session-level performance issues with ML inference (energy score calculated on-device using camera) and video streaming on mobile. Designed and built a complete solution to AB test different ML models for energy score calculation.
 
 - experience:
-  role: UI Engineer 3
+  role: Software Engineer 3
   time: Jul 2018 – Nov 2019
   company: Flipkart
   details:
@@ -28,9 +28,9 @@
     - Flipkart Pre-order for BBD → Led implementation of app/web UI changes for pre-order functionality for BBD sale.
 
 - experience:
-  role: Member of Tech Staff
+  role: Founding Engineer
   time: May 2017 – Jul 2018
-  company: Craftworks
+  company: Craftworks Incubator
   details:
     - Ideated, designed and built the following three products from scratch, with the intention of converting them into companies if there is product-market fit.
     - Caliber → A recruitment platform that added verified technical interview results to your resume using trusted recruiters, built with MongoDB and Node.js.
@@ -56,7 +56,7 @@
     - Ensured stability, performance and throughput under various installation and upgrade scenarios of the Cisco Nexus 1000v series of switches for virtualisation platforms.
 
 - experience:
-  role: Intern
+  role: Research Assistant
   time: Feb 2012 - June 2012
   company: NTU, Singapore
   details:
